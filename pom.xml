@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.202.236.177:8081/repository/DevOps-Practice-Release/</url>
+	      <url>http://107.21.50.92:8081/repository/mtn-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.202.236.177:8081/repository/DevOps-Practice-Snapshot/</url>
+	      <url>http://107.21.50.92:8081/repository/mtn-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
